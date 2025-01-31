@@ -44,7 +44,7 @@ function Navbar() {
             </li>
           </ul>
           <button className="btn btn-danger" onClick={onLogout}>
-            Salir
+            Cerrar Sesión
           </button>
           <form className="d-flex">
             <input
