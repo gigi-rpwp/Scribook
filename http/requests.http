@@ -1,0 +1,17 @@
+@url = https://jsonplaceholder.typicode.com
+
+
+GET {{url}}/users
+###
+
+GET {{url}}/users/10
+###
+
+GET {{url}}/posts
+###
+
+GET {{url}}/posts/40
+###
+
+GET {{url}}/posts/40/comments
+###
